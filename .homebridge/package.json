@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "homebridge": "^1.5.1",
+    "homebridge-meross": "8.5.0"
+  }
+}

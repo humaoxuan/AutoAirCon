@@ -1,0 +1,24 @@
+{
+    "bridge": {
+        "name": "Homebridge 1869",
+        "username": "0E:A2:C5:50:18:69",
+        "port": 51946,
+        "pin": "670-09-255",
+        "advertiser": "avahi"
+    },
+    "accessories": [],
+    "platforms": [
+        {
+            "name": "Config",
+            "port": 8581,
+            "platform": "config"
+        },
+        {
+            "name": "Meross",
+            "username": "humaoxuan1@gmail.com",
+            "password": "Humaoxuan1!",
+            "connection": "default",
+            "platform": "Meross"
+        }
+    ]
+}

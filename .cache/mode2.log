@@ -1,0 +1,10 @@
+Jan  5 02:42:08.703828 homebridge mode2: Warning: ------------------------ Log re-opened ----------------------------
+Jan  5 02:42:08.704128 homebridge mode2: Debug: mode2:  Opening log, level: Debug
+Jan  5 02:42:08.704274 homebridge mode2: Info: Opening device: /dev/lirc1
+Jan  5 02:42:08.704730 homebridge mode2: Info: Initial device: /dev/lirc1
+Jan  5 02:42:08.705099 homebridge mode2: Info: [lirc] protocol is enabled
+Jan  5 02:42:08.705267 homebridge mode2: Debug: No device found: /sys/class/rc/rc2/lirc1
+Jan  5 02:42:08.705424 homebridge mode2: Debug: No device found: /sys/class/rc/rc0/lirc1
+Jan  5 02:42:08.705730 homebridge mode2: Info: [lirc] protocol is enabled
+Jan  5 02:42:08.705888 homebridge mode2: Debug: No device found: /sys/class/rc/rc2/lirc1
+Jan  5 02:42:08.706038 homebridge mode2: Debug: No device found: /sys/class/rc/rc0/lirc1

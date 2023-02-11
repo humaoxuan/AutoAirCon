@@ -1,0 +1,12 @@
+Jan  5 01:01:54.539895 homebridge irrecord: Warning: ------------------------ Log re-opened ----------------------------
+Jan  5 01:01:54.540140 homebridge irrecord: Info: irrecord:  Opening log, level: Info
+Jan  5 01:01:54.540359 homebridge irrecord: Info: Initial device: /dev/lirc1
+Jan  5 01:01:54.540622 homebridge irrecord: Info: [lirc] protocol is enabled
+Jan  5 01:01:54.540981 homebridge irrecord: Info: [lirc] protocol is enabled
+Jan  5 01:01:54.541525 homebridge irrecord: Notice: Running as user pi
+Jan  5 01:04:34.794500 homebridge irrecord: Info: [lirc] protocol is enabled
+Jan  5 01:04:34.795397 homebridge irrecord: Notice: Running as user pi
+Jan  5 01:04:56.075471 homebridge irrecord: Info: [lirc] protocol is enabled
+Jan  5 01:04:56.076284 homebridge irrecord: Notice: Running as user pi
+Jan  5 01:04:56.076470 homebridge irrecord: Info: Using remote: ac2.
+Jan  5 01:04:56.076645 homebridge irrecord: Notice: ac2.lircd.conf: ac2: Multiple values for same code: KEY_2
